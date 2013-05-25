@@ -1,0 +1,7 @@
+Python lessons
+Resources 
+https://developers.google.com/edu/python/
+indentation really matters. Keep only spaces no tabs
+Strings are immutable and not unicode.
+No type checking . Minimum test case is 100% code coverage.
+

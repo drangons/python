@@ -1,0 +1,8 @@
+import sys
+import re
+
+#pattern=
+
+match=re.search(r"GB\s?(I|II|III|IV|V)$","GB IIIV")
+if match:
+    print match.group()

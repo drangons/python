@@ -1,0 +1,9 @@
+Python lessons
+Resources 
+https://developers.google.com/edu/python/
+indentation really matters. Keep only spaces no tabs
+Strings are immutable and not unicode.
+No type checking . Minimum test case is 100% code coverage.
+== is always actual object comparision, even for the lists
+Strings and tuples are immutable, Lists are not
+You cannot change list while iterating . Even	 in java ?
